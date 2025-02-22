@@ -12,24 +12,24 @@
 Now, Enter this site: [link:https://sideloadly.io/,https://sideloadly.io/]
 And go down;
 
-[image:images/ios-sideloadly/sideloadly1.png,altyazi:]
+[image:docs/images/ios-sideloadly/sideloadly1.png,altyazi:]
 Select your operating system and click **Download** button.
 **Then setup Sideloadly**
-[image:images/ios-sideloadly/sideloadly2.png,altyazi:For Windows]
-[image:images/ios-sideloadly/sideloadly3.png,altyazi:For macOS]
+[image:docs/images/ios-sideloadly/sideloadly2.png,altyazi:For Windows]
+[image:docs/images/ios-sideloadly/sideloadly3.png,altyazi:For macOS]
 
 # Step 2 - Using Sideloadly
 1. Open **Sideloadly** and connect your phone with the cable.
 2. Tap the icon that says "IPA" and select the **Tale Stars** ipa file you downloaded.
 3. Enter your Apple ID in the Apple ID section.
 4. Then click **Start** button.
-[image:images/ios-sideloadly/sideloadly4.png,altyazi:]
+[image:docs/images/ios-sideloadly/sideloadly4.png,altyazi:]
 
 After doing these steps, **Tale Stars** will be downloaded to your phone in **7-8 minutes**
 Once downloaded, open Settings and enter General -> VPN & Device Management.
-[image:images/ios-sideloadly/sideloadly5.png,altyazi:]
+[image:docs/images/ios-sideloadly/sideloadly5.png,altyazi:]
 Click on the section below **Developer App** text.
-[image:images/ios-sideloadly/sideloadly6.png,altyazi:]
+[image:docs/images/ios-sideloadly/sideloadly6.png,altyazi:]
 Then press the **Trust** button and enter Sideloadly.
 
 ## Everything is ready now. Now open the Tale Stars and play.
