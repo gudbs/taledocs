@@ -7,5 +7,5 @@
 
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^docs/([^/]+)$ /index.html?name=$1 [L,QSA,NC]
+    RewriteRule ^nk/([^/]+)$ /index.html?name=$1 [L,QSA,NC]
 </IfModule>
