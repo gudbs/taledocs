@@ -1,0 +1,45 @@
+[title]Tale Stars iOS Tutorial - For PC (SCARLET)
+
+[quote]If you have a computer and an iOS/iPadOS device, read this tutorial.
+
+# Step 1 - Download Scarlet
+### If you are using Windows, you first need to install iCloud and iTunes on your computer. For macOS you don't need this
+→ [link:iTunes Link (for Windows),https://www.microsoft.com/p/itunes/9pb2mz1zmb1s?rtc=1&activetab=pivot:overviewtab] 
+→ [link:iCloud Link (for Windows),https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe] 
+
+[quote]First, go to Settings -> Privacy & Security -> Enable Developer Mode on your iPhone.
+
+Now, Enter this **GitHub** link: [link:https://github.com/DebianArch64/DebProvision/releases,https://github.com/DebianArch64/DebProvision/releases]
+And download;
+
+[image:images/ios-scarlet/scarlet1.png,altyazi:Choose the operating system you use on your computer]
+# Step 2 - Setup
+After running the **Scarlet Cloud** setup file, connect your phone with the cable and click the **Select Device** button.
+[image:images/ios-scarlet/scarlet2.png,altyazi:]
+After selecting the device, click the **Install Scarlet** button.
+[image:images/ios-scarlet/scarlet3.png,altyazi:]
+
+# Step 3 - Run Scarlet
+Once Scarlet is downloaded, enter Settings on iOS.
+Then go to **General -> VPN & Device Management**
+[image:images/ios-scarlet/scarlet4.png,altyazi:]
+Click on the section below **Developer App** text.
+[image:images/ios-scarlet/scarlet5.png,altyazi:]
+Then press the **Trust** button and enter Scarlet.
+
+# Step 4 - Set WireGuard
+First of all, **WireGuard** needs to be downloaded for the **Scarlet** to work.
+
+Open the App Store with [link:this link,https://apps.apple.com/us/app/wireguard/id1441195209] and download **WireGuard**.
+
+Now enter this GitHub link again; [link:https://github.com/DebianArch64/DebProvision/releases,https://github.com/DebianArch64/DebProvision/releases]
+
+And download emp.conf file.
+[image:images/ios-scarlet/scarlet6.png,altyazi:]
+Once the emp.conf file is downloaded, enter WireGuard and click **“+”** button at the top right. Then click **“Create from file or archive”** button and select the emp.conf file.
+[image:images/ios-scarlet/scarlet7.png,altyazi:]
+Then open the switch checkbox next to emp text.
+
+# Step 5 - Download Tale Stars
+Everything is ready now. Now open the **Scarlet** and click “+” button at the top right and select the downloaded **Tale Stars** ipa.
+[image:images/ios-scarlet/scarlet8.png,altyazi:]

@@ -1,0 +1,35 @@
+[title]Tale Stars iOS Tutorial - For PC (SIDELOADLY)
+
+[quote]If you have a computer and an iOS/iPadOS device, read this tutorial.
+
+# Step 1 - Download Sideloadly
+### If you are using Windows, you first need to install iCloud and iTunes on your computer. For macOS you don't need this
+→ [link:iTunes Link (for Windows),https://www.microsoft.com/p/itunes/9pb2mz1zmb1s?rtc=1&activetab=pivot:overviewtab] 
+→ [link:iCloud Link (for Windows),https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe] 
+
+[quote]First, go to Settings -> Privacy & Security -> Enable Developer Mode on your iPhone.
+
+Now, Enter this site: [link:https://sideloadly.io/,https://sideloadly.io/]
+And go down;
+
+[image:images/ios-sideloadly/sideloadly1.png,altyazi:]
+Select your operating system and click **Download** button.
+**Then setup Sideloadly**
+[image:images/ios-sideloadly/sideloadly2.png,altyazi:For Windows]
+[image:images/ios-sideloadly/sideloadly3.png,altyazi:For macOS]
+
+# Step 2 - Using Sideloadly
+1. Open **Sideloadly** and connect your phone with the cable.
+2. Tap the icon that says "IPA" and select the **Tale Stars** ipa file you downloaded.
+3. Enter your Apple ID in the Apple ID section.
+4. Then click **Start** button.
+[image:images/ios-sideloadly/sideloadly4.png,altyazi:]
+
+After doing these steps, **Tale Stars** will be downloaded to your phone in **7-8 minutes**
+Once downloaded, open Settings and enter General -> VPN & Device Management.
+[image:images/ios-sideloadly/sideloadly5.png,altyazi:]
+Click on the section below **Developer App** text.
+[image:images/ios-sideloadly/sideloadly6.png,altyazi:]
+Then press the **Trust** button and enter Sideloadly.
+
+## Everything is ready now. Now open the Tale Stars and play.
